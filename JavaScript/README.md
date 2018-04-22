@@ -1,2 +1,2 @@
-# JavaScript
+# JavaScript 1
 
